@@ -1,7 +1,7 @@
 import csv
 
 # File paths for the CSV file
-# initialise the file location
+# initialise the file
 file1_path = "first_list.csv"  # Replace with your actual path
 file2_path = "second_list.csv"  # Replace with your actual path
 output_file_path = "matched_results.csv"  # Output file path
